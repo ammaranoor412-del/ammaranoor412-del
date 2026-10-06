@@ -14,40 +14,40 @@ Helping brands, businesses & creators build a stronger digital presence 🚀
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm **Ammara Noor**, a digital marketer and creative professional passionate about helping businesses grow through **digital marketing, social media, content and visual design**.
 
 I combine creativity with strategy to create content and digital experiences that are **professional, engaging and memorable.**
 
-### 💡 What I Do
+###  What I Do
 
-- 📱 Social Media Management
-- 🎨 Graphic Design & Creative Content
-- 🔎 SEO & Digital Marketing
-- 📊 Meta & Google Ads
-- ✍️ Content Strategy & Creation
-- 💼 Brand & Social Media Strategy
-- 🚀 Digital Growth & Online Presence
+-  Social Media Management
+- Graphic Design & Creative Content
+-  SEO & Digital Marketing
+-  Meta & Google Ads
+-  Content Strategy & Creation
+-  Brand & Social Media Strategy
+-  Digital Growth & Online Presence
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 📈 Digital Marketing
+###  Digital Marketing
 `Social Media Marketing` `SEO` `Meta Ads` `Google Ads`
 
-### 🎨 Creative & Design
+###  Creative & Design
 `Canva` `Graphic Design` `Branding` `Content Creation`
 
-### 📱 Social Media
+###  Social Media
 `Instagram` `Facebook` `LinkedIn` `Content Strategy`
 
 ---
 
-## 💼 Featured Work
+##  Featured Work
 
-### 🚀 AN Xcel Marketing
+###  AN Xcel Marketing
 
 **Digital Marketing • Social Media • Graphic Design • Content Strategy**
 
@@ -55,7 +55,7 @@ A creative digital marketing brand focused on helping businesses, startups and c
 
 ---
 
-### 🎨 Social Media Design
+###  Social Media Design
 
 Creating professional and engaging social media visuals designed to make brands look:
 
@@ -63,7 +63,7 @@ Creating professional and engaging social media visuals designed to make brands 
 
 ---
 
-### 📢 Digital Marketing
+###  Digital Marketing
 
 Helping businesses improve their online presence through:
 
@@ -71,28 +71,27 @@ Helping businesses improve their online presence through:
 
 ---
 
-## 📊 What I Bring
+##  What I Bring
 
 | Area | Focus |
 |---|---|
-| 📱 Social Media | Strategy, Management & Growth |
-| 🎨 Design | Social Media Graphics & Branding |
-| 🔎 SEO | Search Visibility & Content |
-| 📊 Advertising | Meta & Google Ads |
-| ✍️ Content | Creative & Strategic Content |
-| 🚀 Marketing | Digital Brand Growth |
+|  Social Media | Strategy, Management & Growth |
+|  Design | Social Media Graphics & Branding |
+|  SEO | Search Visibility & Content |
+|  Advertising | Meta & Google Ads |
+|  Content | Creative & Strategic Content |
+|  Marketing | Digital Brand Growth |
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
-📧 **Email:** YOUR_EMAIL
+ **Email:** YOUR_EMAIL
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_LINK)
+ **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ammara-noor-789an?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+ **Portfolio:** [View my Portfolio](https://sites.google.com/view/anxcelmarketing/portfolio)
 
-🌐 **Portfolio:** [View my Portfolio](YOUR_PORTFOLIO_LINK)
-
-🚀 **AN Xcel Marketing:** [Visit AN Xcel Marketing](YOUR_BUSINESS_LINK)
+ **AN Xcel Marketing:** [Visit AN Xcel Marketing](https://www.instagram.com/anxcel.skillsup?stkn=MXdtNWNrZTI1NDNvMA==)
 
 ---
 
